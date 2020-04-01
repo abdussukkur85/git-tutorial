@@ -5,4 +5,9 @@
         {
             echo "VS code is Awesome";
         }
+
+        public function display($name)
+        {
+            echo "Welcome {$name}";
+        }
     }
