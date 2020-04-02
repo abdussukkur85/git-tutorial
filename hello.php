@@ -6,12 +6,7 @@
             echo "VS code is Awesome";
         }
 
-        public function display($name)
-        {
-            echo "Welcome {$name}";
-        }
-
-        public function add($a)     
+        public function sqrt($a)
         {
             echo $a*$a;
         }
