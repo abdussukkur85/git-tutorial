@@ -10,4 +10,9 @@
         {
             echo "Welcome {$name}";
         }
+
+        public function add($a)     
+        {
+            echo $a*$a;
+        }
     }
