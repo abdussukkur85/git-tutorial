@@ -6,8 +6,7 @@
             echo "VS code is Awesome";
         }
 
-        public function sqrt($a)
-        {
-            echo $a*$a;
+        function displayConflict(){
+            echo "Mergeconflic from another branch"
         }
     }
